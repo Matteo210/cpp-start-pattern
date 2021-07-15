@@ -9,7 +9,7 @@ int main()
 	string a;
 	cout << "Welcome \n";
 	
-	
+	//your code here :)
 	
 	cin >> a;
 	cout << "\n";
